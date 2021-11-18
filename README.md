@@ -3,14 +3,16 @@ Patched linux driver for the startech 2 port PCIe Serial card with 16950 UART fo
 partnumber PEX2S953LP
 
 ### build and install
+```
 make
 sudo make install
+```
 
 ### clean up
-make clean
+`make clean`
 
 ### uninstall
-sudo make uninstall
+`sudo make uninstall`
 
 # dmesg output
 ```
