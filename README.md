@@ -2,6 +2,8 @@
 Patched linux driver for the startech 2 port PCIe Serial card with 16950 UART for Ubuntu 20.04
 partnumber PEX2S953LP
 
+Patching to fix a source file and updating the MakeFile to support linux 5.x kernel
+
 ### build and install
 ```
 make
