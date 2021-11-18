@@ -1,0 +1,10 @@
+.parport_pc.o.d
+advanced_BR
+ax99100.ko
+ax99100.mod
+gpio_99100
+parport_pc.ko
+parport_pc.mod
+select_BR
+spi_test
+
