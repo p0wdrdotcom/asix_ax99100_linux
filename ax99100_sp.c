@@ -3121,5 +3121,4 @@ module_exit(serial99100_exit);
 
 MODULE_DEVICE_TABLE(pci, serial99100_pci_tbl);
 MODULE_DESCRIPTION("Asix 99100 serial driver module");
-//MODULE_SUPPORTED_DEVICE("Asix serial 99100");
 MODULE_LICENSE("GPL");
